@@ -7,7 +7,7 @@
 
 ### Projects
 ##### Case study 1: How Does a Bike-Share Company Navigate Speedy Success?
-Below is a detailed report of this data analysis case study which was carried out for a fictional bike-share company called Cyclistic. You can access the report [here](file:///C:/Users/hp/Documents/CYCLISTIC-REPORTT.html) I made use of RStudio now Posit studio to perform all my analysis.
+Below is a detailed report of this data analysis case study which was carried out for a fictional bike-share company called Cyclistic. You can access the report [here](https://pink-audra-80.tiiny.site) I made use of RStudio now Posit studio to perform all my analysis.
 
 ##### Case Study 2: How Can a Wellness Technology Company Play it Smart?
 I related personally to this case study. I love the health and wellness niche but not as much as my love for analysis. You can find the detailed report of my analysis [here]()

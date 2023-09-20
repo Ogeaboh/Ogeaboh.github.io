@@ -1,4 +1,4 @@
-# Entry-Level Data Analyst
+# Data Analyst
 ##### Technical skills: R programming, SQL, Tableau, Spreadsheets, Slides
 
 ### Education
@@ -7,10 +7,11 @@
 
 ### Projects
 ##### Case study 1: How Does a Bike-Share Company Navigate Speedy Success?
-Below is a detailed report of this data analysis case study which was carried out for a fictional bike-share company called Cyclistic. You can access the report [here](https://pink-audra-80.tiiny.site) I made use of RStudio now Posit studio to perform all my analysis.
+Below is a detailed report of this data analysis case study which was carried out for a fictional bike-share company called Cyclistic. You can access the report [here](https://peach-valeda-14.tiiny.site/) I made use of RStudio now Posit studio to perform all my analysis.
 
 ##### Case Study 2: How Can a Wellness Technology Company Play it Smart?
 I related personally to this case study. I love the health and wellness niche but not as much as my love for analysis. You can find the detailed report of my analysis [here]()
+
 ##### Case Study 3: What Makes a Book on Amazon a Best Seller?
 
 ### Work Experience 
